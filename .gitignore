@@ -1,3 +1,12 @@
+# 파일명은 상관 없고, 확장자가 text면 관리 X
+*.test
+
+# 파일명은 상관없고 확장자가 work면 관리 X
+
+*.work
+ParkSeongIk.*
+
+
 # History files
 .Rhistory
 .Rapp.history
